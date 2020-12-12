@@ -1,5 +1,4 @@
 # MatHub - Math Learning Platform
-Inspired by the Interactive Programming Platform - [Scratch](https://scratch.mit.edu/). The basic difference between the two being - Scratch represents a visually appealing programming interface, while MatHub is a visually appealing mathematics hub, for students from different stages of their schooling.
 
 ## Features
 - Interactive way to learn mathematics from level K-1 to K-8.
